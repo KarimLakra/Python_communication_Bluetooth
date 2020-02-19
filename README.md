@@ -40,8 +40,8 @@ This example uses the <a href="https://pyserial.readthedocs.io/en/latest/tools.h
 - Execute: python Transmitter.py
 - You should see the same as in the first and second examples.
 
-
-<b>Next update we will use a Python GUI to communicate with the Arduino.</b>
+<h3>4 - Python GUI to communicate with the Arduino</h3>
+<b>Next update!</b>
 
 
 
