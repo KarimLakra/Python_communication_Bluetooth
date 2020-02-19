@@ -2,6 +2,7 @@
 
 <h3>1 - Transmitting data from Python to the Arduino Software (IDE) serial monitor</h3>
 To test this examples (made for windows):
+
 - Connect the parts with the Arduino as shown in the image <img src="https://github.com/KarimLakra/Python_communication_Bluetooth/blob/master/HC-05-Arduino-Test_schematic.png" />
 - Connect the Arduino to the PC using USB connector. 
 - Transfer the .ino file located in <a href="https://github.com/KarimLakra/Python_communication_Bluetooth/blob/master/Arduino_Bluetooth/Arduino_Bluetooth.ino" target=_blank>Arduino_Bluetooth</a> folder to the Arduino using the Arduino Software (IDE).
