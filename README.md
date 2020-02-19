@@ -36,3 +36,16 @@ This example uses the <a href="https://pyserial.readthedocs.io/en/latest/tools.h
 - Open a CLI using ActivateVirtualEnv.bat
 - Execute: python Transmitter.py
 - You should see the same as in the first and second examples.
+
+
+<b>Next update we will use a Python GUI to communicate with the Arduino.</b>
+
+
+
+
+
+Links:
+- A very useful video to get started: https://www.youtube.com/watch?v=3tcn496oxnk
+- GitHub related to the video above: https://github.com/LessonStudio/Arduino_Bluetooth
+- Examples based on: https://pyserial.readthedocs.io/en/latest/index.html
+- Class copied from: https://stackoverflow.com/a/56632812/12866855
