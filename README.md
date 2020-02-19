@@ -42,6 +42,7 @@ This example uses the <a href="https://pyserial.readthedocs.io/en/latest/tools.h
 
 <h3>4 - Python GUI to communicate with the Arduino</h3>
 <b>Next update!</b>
+<br><br><br>
 
 
 
