@@ -1,9 +1,9 @@
 #  Bluetooth Communication - Python
 
 To test this examples (made for windows):
-- Connect the parts with the Arduino as shown in the schematic.
+- Connect the parts with the Arduino as shown in <a href="https://github.com/KarimLakra/Python_communication_Bluetooth/blob/master/HC-05-Arduino-Test_schematic.png" target=_blank>the schematic.</a>
 - Connect the Arduino to the PC using USB connector. 
-- Transfer the .ino file located in Arduino_Bluetooth folder to the Arduino using the Arduino Software (IDE).
+- Transfer the .ino file located in <a href="https://github.com/KarimLakra/Python_communication_Bluetooth/blob/master/Arduino_Bluetooth/Arduino_Bluetooth.ino" target=_blank>Arduino_Bluetooth</a> folder to the Arduino using the Arduino Software (IDE).
 - In the Arduino Software (IDE), from the menu: Tools>Port>Serial ports, choose the port where the Arduino is connected.
 - If you don't know the COM port number, double click on ActivateVirtualEnv.bat which will opens a 
 Command Line(CLI) and activates a virtual environment for you.
@@ -18,7 +18,7 @@ Command Line(CLI) and activates a virtual environment for you.
 
 If you get this steps done, you can move to the next example, which uses a CLI to replace the (IDE) serial monitor.
 
-This example uses the miniterm to listen to a specific port: https://pyserial.readthedocs.io/en/latest/tools.html#module-serial.tools.miniterm
+This example uses the <a href="https://pyserial.readthedocs.io/en/latest/tools.html#module-serial.tools.miniterm" target=_blank>miniterm</a> to listen to a specific port.
 
 - Before opening the Miniterm-listen-to-COM.bat, change the port number that you used for the serial monitor.
 - Open Miniterm-listen-to-COM.bat
