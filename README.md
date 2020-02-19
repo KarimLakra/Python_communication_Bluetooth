@@ -1,6 +1,6 @@
 #  Bluetooth Communication - Python
 
-To test this examples (made for windows):
+1 - To test this examples (made for windows):
 - Connect the parts with the Arduino as shown in <img src="https://github.com/KarimLakra/Python_communication_Bluetooth/blob/master/HC-05-Arduino-Test_schematic.png"/>
 - Connect the Arduino to the PC using USB connector. 
 - Transfer the .ino file located in <a href="https://github.com/KarimLakra/Python_communication_Bluetooth/blob/master/Arduino_Bluetooth/Arduino_Bluetooth.ino" target=_blank>Arduino_Bluetooth</a> folder to the Arduino using the Arduino Software (IDE).
@@ -16,7 +16,7 @@ Command Line(CLI) and activates a virtual environment for you.
 - The transfer of data should be printed in both the CLI and (IDE) serial monitor.
 - The LED is turned ON in the beginning of the transfer and OFF in the end.
 
-If you get this steps done, you can move to the next example, which uses a CLI to replace the (IDE) serial monitor.
+2 - If you get this steps done, you can move to the next example, which uses a CLI to replace the (IDE) serial monitor.
 
 This example uses the <a href="https://pyserial.readthedocs.io/en/latest/tools.html#module-serial.tools.miniterm" target=_blank>miniterm</a> to listen to a specific port, you can explore the many useful options offered by this tool.
 
@@ -27,7 +27,7 @@ This example uses the <a href="https://pyserial.readthedocs.io/en/latest/tools.h
 - And execute: python Transmitter.py
 - You should see the same as in the first example.
 
- In this third example we will use a python class to receive data, which can be useful for developping a Python application.
+ 3 - In this third example we will use a python class to receive data, which can be useful for developping a Python application.
  
 - As the step above, open a CLI using ActivateVirtualEnv.bat
 - right click on Receiver.py and change the COMx as above(mine is COM5) save the file.
