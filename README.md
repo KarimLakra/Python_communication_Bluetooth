@@ -29,7 +29,7 @@ This example uses the <a href="https://pyserial.readthedocs.io/en/latest/tools.h
 - And execute: python Transmitter.py
 - You should see the same as in the first example.
 
-<h3>1 - Using Python to Transfer/Receive data</h3>
+<h3>3 - Using Python to Transfer/Receive data</h3>
  In this third example we will use a python class to receive data, which can be useful for developping a Python application.
  
 - As the step above, open a CLI using ActivateVirtualEnv.bat
