@@ -19,7 +19,7 @@ Command Line(CLI) and activates a virtual environment for you.
 - The LED is turned ON in the beginning of the transfer and OFF in the end.
 
 <h3>2 - Receiving data using a CLI instead of the IDE serial monitor</h3>
-If you get this steps done, you can move to the next example, which uses a CLI to replace the (IDE) serial monitor.
+If you get the steps above done, you can start the next steps which uses a CLI to replace the (IDE) serial monitor.
 
 This example uses the <a href="https://pyserial.readthedocs.io/en/latest/tools.html#module-serial.tools.miniterm" target=_blank>miniterm</a> to listen to a specific port, you can explore the many useful options offered by this tool.
 
