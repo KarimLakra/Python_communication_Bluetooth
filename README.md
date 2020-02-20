@@ -34,7 +34,7 @@ This example uses the <a href="https://pyserial.readthedocs.io/en/latest/tools.h
  In this third example we will use a python class to receive data, which can be useful for developping a Python application.
  
 - As the step above, open a CLI using ActivateVirtualEnv.bat
-- right click on Receiver.py and change the COMx as above(mine is COM5) save the file.
+- Edit the Receiver.py and change the COMx as above(mine is COM5) save the file.
 - Open a CLI using ActivateVirtualEnv.bat
 - Execute: python Receiver.py
 - Open a CLI using ActivateVirtualEnv.bat
